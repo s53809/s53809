@@ -5,4 +5,4 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=s53809)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=s53809)](https://solved.ac/{s53809)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=s53809)](https://solved.ac/s53809)
