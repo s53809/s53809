@@ -4,6 +4,4 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=s53809)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=s53809)](https://solved.ac/s53809)
 ![Minseo's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=s53809)
