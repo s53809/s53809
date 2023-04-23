@@ -5,5 +5,3 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=s53809)
 
 ![Minseo's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=s53809)
-
-<a href="https://opgc.me/#/users/s53809" target="_blank"><img src="https://api.opgc.me/githubs/users/s53809/tag/?theme=basic" /></a>
