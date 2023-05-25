@@ -1,4 +1,4 @@
-# Hello, World!
+# Hello, World! 👋
 
 * I'm Minseo Kim, the 22nd generation of Korea Animation High School
 * My first main field is game programming but I am looking for my own field after experiencing various fields.   
