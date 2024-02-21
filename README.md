@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-* I'm Minseo Kim, the 22nd generation of Korea Animation High School
+* I'm Minseo Kim, Department of Software, Kookmin University, No. 24
 * I'm studying to become a Game Programmer
 * Using C# for game programming with Unity Engine
 * Using C++ for PS on Baekjoon and codeforce   
